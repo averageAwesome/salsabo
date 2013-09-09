@@ -38,7 +38,7 @@
   </head>
   <body>
 
-<div class="navbar navbar-fixed-top"> <!-- header nav -->
+<div class="navbar navbar-fixed-top" style="position:fixed"> <!-- header nav -->
       <div class="navbar-inner">
         <div class="container">
           <ul class="nav">
